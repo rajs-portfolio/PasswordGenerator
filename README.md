@@ -1,15 +1,27 @@
 # Password Generator
 
-A simple password generator written in Python.
+A simple **Python password generator** for creating random passwords.
 
 ## Features
 
-- Custom password length
-- Uppercase & lowercase letters
-- Numbers
-- Symbols
+* Choose password length
+* Uppercase and lowercase letters
+* Numbers
+* Symbols
 
-## Run
+## How to Run
 
 ```bash
 python3 password_generator.py
+```
+
+## Requirements
+
+* Python 3
+
+## Example
+
+```text
+Enter password length: 12
+Generated password: X7@kP2!mQ9#z
+```
