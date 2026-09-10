@@ -1,27 +1,29 @@
 # 🔐 Password Generator
 
-A simple **Python password generator** that creates random and secure passwords based on the length you choose.
+A simple **Python Password Generator** that creates random passwords based on the length entered by the user.
+
+This project is made for **beginners** to practice basic Python programming concepts.
 
 ## ✨ Features
 
 * Choose the password length
-* Includes **uppercase letters**
-* Includes **lowercase letters**
-* Includes **numbers**
-* Includes **symbols**
-* Generates a random password every time
+* Uses uppercase letters
+* Uses lowercase letters
+* Uses numbers
+* Uses symbols
+* Generates a different password each time
 
 ## 🛠️ Requirements
 
 * Python 3
-
-No external libraries are required.
+* No external libraries are required
 
 ## ▶️ How to Run
 
-1. Make sure Python 3 is installed.
-2. Open a terminal in the project folder.
-3. Run:
+1. Install Python 3.
+2. Download or clone this project.
+3. Open the terminal in the project folder.
+4. Run:
 
 ```bash
 python3 password_generator.py
@@ -46,16 +48,20 @@ PasswordGenerator/
 
 ## 📚 What I Learned
 
-This project helped me practice:
+By creating this project, I practiced:
 
-* Python variables
+* Variables
 * User input
 * Loops
 * Conditional statements
+* Strings
 * Random password generation
-* Working with strings
 * Using Python modules
 
-## 👨‍💻 Beginner Project
+## 🎯 Purpose
 
-This is a beginner-friendly Python project created for learning and practicing programming fundamentals.
+This is a **beginner-friendly project** created to practice Python programming fundamentals and understand how a simple password generator works.
+
+## 👨‍💻 Author
+
+Created as a beginner Python project for learning and practice.
